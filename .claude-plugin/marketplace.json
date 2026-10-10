@@ -1,0 +1,13 @@
+{
+  "name": "design-picker",
+  "description": "Shows design styles as swatches before you pick one. A Claude Code plugin.",
+  "owner": {
+    "name": "Taha-Aalam"
+  },
+  "plugins": [
+    {
+      "name": "design-picker",
+      "source": "./"
+    }
+  ]
+}

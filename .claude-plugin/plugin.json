@@ -1,0 +1,7 @@
+{
+  "name": "design-picker",
+  "version": "0.1.0",
+  "description": "Shows design styles as swatches before you pick one.",
+  "author": { "name": "Taha-Aalam" },
+  "types": "./types/index.d.ts"
+}
